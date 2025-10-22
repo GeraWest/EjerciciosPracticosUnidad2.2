@@ -2,11 +2,15 @@
 <!--  Rey Gerardo Avalos Mellado -->
 
 <p align="center">
+  <img src="https://i.gifer.com/1amw.gif" width="100%">
+</p>
+
+<p align="center">
   <img src="banner.png" alt="REY GERARDO AVALOS MELLADO - MATRIX EDITION" width="100%">
 </p>
 
 <h1 align="center" style="color:#00FF00;">
- 1224100509
+  1224100509
 </h1>
 
 ---
