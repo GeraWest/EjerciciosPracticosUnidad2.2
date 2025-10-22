@@ -36,9 +36,17 @@ simple de números enteros positivos.
 
 ⚙️ **Modo de Operación:**
 1-Genera números enteros positivos al azar.
+
+
 2-Inserta cada número al final de una lista enlazada simple.
+
+
 3-Recorre la lista mostrando cada elemento.
+
+
 4-Pide un valor límite al usuario.
+
+
 5-Elimina los nodos con valores mayores al límite dado.
 
 ---
