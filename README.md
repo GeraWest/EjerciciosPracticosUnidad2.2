@@ -17,16 +17,18 @@
 |-------------|----------------|
 | **Materia:** | Estructura de Datos |
 | **Autor:** | **Rey Gerardo Avalos Mellado** |
-| **Proyecto:** | Implementación de estructuras enlazadas en Java con actitud hacker |
+| **Proyecto:** | Implementación de estructuras enlazadas en Java  |
 | **Entorno:** | NetBeans / Java |
-| **Propósito:** | Dominar las listas enlazadas como si fueran líneas de destino. |
+
 
 ---
 
 ## 🩸 Actividad 01 – Lista Enlazada Simple
 
 🎯 **Objetivo:**  
-Forjar una lista enlazada que genere números aleatorios, los muestre y elimine los mayores a un valor límite impuesto por el usuario.
+Desarrollar un programa que implemente operaciones básicas sobre una lista enlazada
+simple de números enteros positivos.
+
 
 | Módulo | Archivo |
 |--------|----------|
@@ -44,7 +46,8 @@ Forjar una lista enlazada que genere números aleatorios, los muestre y elimine 
 ## 🕶 Actividad 02 – Lista de Palabras desde Archivo
 
 🎯 **Objetivo:**  
-Leer, almacenar y controlar palabras desde un archivo de texto. Añadir, eliminar y reescribir con precisión quirúrgica.  
+Desarrollar un programa que lea palabras desde un archivo de texto y las almacene en una
+lista enlazada, permitiendo su manipulación dinámica.  
 
 | Módulo | Archivo |
 |--------|----------|
@@ -62,7 +65,8 @@ Leer, almacenar y controlar palabras desde un archivo de texto. Añadir, elimina
 ## 🔥 Actividad 03 – Polinomios en Guerra
 
 🎯 **Objetivo:**  
-Representar un polinomio con una lista enlazada y evaluar su poder en distintos puntos.
+Desarrollar un programa que permita representar polinomios mediante una lista enlazada
+simple y calcular sus valores para distintos puntos de evaluación.
 
 | Módulo | Archivo |
 |--------|----------|
@@ -79,7 +83,8 @@ Representar un polinomio con una lista enlazada y evaluar su poder en distintos 
 ## 🌀 Actividad 04 – Polinomio Circular
 
 🎯 **Objetivo:**  
-Transformar el polinomio en una *lista circular*, cerrando el ciclo como un código infinito.
+Modificar la representación de un polinomio mediante lista enlazada simple para que se
+convierta en una lista circular, optimizando el acceso y recorrido continuo.
 
 | Módulo | Archivo |
 |--------|----------|
@@ -97,7 +102,9 @@ Transformar el polinomio en una *lista circular*, cerrando el ciclo como un cód
 ## 🕸 Actividad 05 – Lista Doblemente Enlazada
 
 🎯 **Objetivo:**  
-Construir una lista doblemente enlazada a partir de los caracteres de una cadena y ordenarlos con precisión alfabética.
+Desarrollar un programa que construya una lista doblemente enlazada a partir de los
+caracteres de una cadena ingresada por el usuario, y que luego ordene dicha lista
+alfabéticamente para mostrarla en pantalla.
 
 | Módulo | Archivo |
 |--------|----------|
