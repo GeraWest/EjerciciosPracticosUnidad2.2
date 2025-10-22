@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center" style="color:#00FF00;">
-⚔️ DARK MATRIX EDITION – LINKED LISTS IN JAVA
+ 1224100509
 </h1>
 
 <p align="center">
@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/Mode-DARK-%23000000?style=for-the-badge&logo=matrix&logoColor=00FF00">
   <img src="https://img.shields.io/badge/Author-Rey_Gerardo_Ávalos_Mellado-%2300FF00?style=for-the-badge">
 </p>
-
-> _"El código no duerme, solo espera a ser ejecutado."_  
 
 ---
 
@@ -38,7 +36,6 @@ Forjar una lista enlazada que genere números aleatorios, los muestre y elimine 
 
 | Módulo | Archivo |
 |--------|----------|
-| Nodo | [Nodo.java](Nodo.java) |
 | Implementación | [ejer1.java](ejer1.java) |
 
 ⚙️ **Modo de Operación:**
@@ -57,8 +54,7 @@ Leer, almacenar y controlar palabras desde un archivo de texto. Añadir, elimina
 
 | Módulo | Archivo |
 |--------|----------|
-| Nodo | [NodoPalabra.java](NodoPalabra.java) |
-| Implementación | [ListaPalabras.java](ListaPalabras.java) |
+| Implementación | [ejer2.java](ejer2.java) |
 
 ⚙️ **Modo de Operación:**
 1. Crea `palabras.txt`.
@@ -76,8 +72,7 @@ Representar un polinomio con una lista enlazada y evaluar su poder en distintos 
 
 | Módulo | Archivo |
 |--------|----------|
-| Nodo del Término | [NodoPolinomio.java](NodoPolinomio.java) |
-| Implementación | [Polinomio.java](Polinomio.java) |
+| Implementación | [ejer3.java](ejer3.java) |
 
 ⚙️ **Modo de Operación:**
 1. Ejecuta `Polinomio`.
@@ -95,8 +90,7 @@ Transformar el polinomio en una *lista circular*, cerrando el ciclo como un cód
 
 | Módulo | Archivo |
 |--------|----------|
-| Nodo Circular | [NodoCircular.java](NodoCircular.java) |
-| Implementación | [PolinomioCircular.java](PolinomioCircular.java) |
+| Implementación | [ejer4.java](ejer4.java) |
 
 ⚙️ **Modo de Operación:**
 1. Ejecuta `PolinomioCircular`.
@@ -114,7 +108,7 @@ Construir una lista doblemente enlazada a partir de los caracteres de una cadena
 
 | Módulo | Archivo |
 |--------|----------|
-| Nodo Doble | [NodoDoble.java](NodoDoble.java) |
+| Nodo Doble | [ejer5.java](ejer5.java) |
 | Implementación | [ListaDoblementeEnlazada.java](ListaDoblementeEnlazada.java) |
 
 ⚙️ **Modo de Operación:**
