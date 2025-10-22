@@ -2,7 +2,7 @@
 <!--  Rey Gerardo Avalos Mellado -->
 
 <p align="center">
-  <img src="banner.png" alt="REY GERARDO AVALOS MELLADO" width="100%">
+  <img src="banner.png" alt="REY GERARDO AVALOS MELLADO" width="70%">
 </p>
 
 <h1 align="center" style="color:#00FF00;">
