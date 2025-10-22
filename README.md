@@ -9,12 +9,6 @@
  1224100509
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-%2300FF00?style=for-the-badge&logo=java&logoColor=00FF00">
-  <img src="https://img.shields.io/badge/Mode-DARK-%23000000?style=for-the-badge&logo=matrix&logoColor=00FF00">
-  <img src="https://img.shields.io/badge/Author-Rey_Gerardo_Ávalos_Mellado-%2300FF00?style=for-the-badge">
-</p>
-
 ---
 
 ## 💀 Datos del Proyecto
