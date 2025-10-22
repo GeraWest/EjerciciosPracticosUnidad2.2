@@ -33,11 +33,11 @@ Forjar una lista enlazada que genere números aleatorios, los muestre y elimine 
 | Implementación | [ejer1.java](ejer1.java) |
 
 ⚙️ **Modo de Operación:**
-1. Ejecuta `ListaEnlazada`.
-2. Define cuántos números deseas generar.
-3. Indica el límite y observa cómo los mayores desaparecen del sistema.
-
-> “En la lista, solo los fuertes sobreviven.”
+1-Genera números enteros positivos al azar.
+2-Inserta cada número al final de una lista enlazada simple.
+3-Recorre la lista mostrando cada elemento.
+4-Pide un valor límite al usuario.
+5-Elimina los nodos con valores mayores al límite dado.
 
 ---
 
@@ -51,11 +51,11 @@ Leer, almacenar y controlar palabras desde un archivo de texto. Añadir, elimina
 | Implementación | [ejer2.java](ejer2.java) |
 
 ⚙️ **Modo de Operación:**
-1. Crea `palabras.txt`.
-2. Ejecuta `ListaPalabras`.
-3. Manipula las palabras: agrega, elimina, guarda.  
-
-> “El archivo obedece a quien domina la lista.”
+1-Lee palabras desde un archivo de texto.
+2-Crea una lista enlazada simple con las palabras en orden de aparición.
+3-Permite agregar nuevas palabras a la lista.
+4-Permite eliminar palabras específicas.
+5-Al final, escribe nuevamente todas las palabras en el archivo.
 
 ---
 
