@@ -1,9 +1,8 @@
 # EjerciciosPracticosUnidad2.2
-<!-- 🧠 Dark Matrix Edition by Rey Gerardo Ávalos Mellado -->
-<!-- El código no se teme, se domina. -->
+<!--  Rey Gerardo Avalos Mellado -->
 
 <p align="center">
-  <img src="banner.png" alt="REY GERARDO ÁVALOS MELLADO - MATRIX EDITION" width="100%">
+  <img src="banner.png" alt="REY GERARDO AVALOS MELLADO - MATRIX EDITION" width="100%">
 </p>
 
 <h1 align="center" style="color:#00FF00;">
@@ -22,10 +21,10 @@
 
 ## 💀 Datos del Proyecto
 
-| 🔧 Elemento | 💣 Descripción |
+| 🔧 Elemento | 💣  |
 |-------------|----------------|
 | **Materia:** | Estructura de Datos |
-| **Autor:** | **Rey Gerardo Ávalos Mellado** |
+| **Autor:** | **Rey Gerardo Avalos Mellado** |
 | **Proyecto:** | Implementación de estructuras enlazadas en Java con actitud hacker |
 | **Entorno:** | NetBeans / Java |
 | **Propósito:** | Dominar las listas enlazadas como si fueran líneas de destino. |
@@ -123,17 +122,11 @@ Construir una lista doblemente enlazada a partir de los caracteres de una cadena
 2. Observa cómo los caracteres se enlazan entre sí.
 3. El algoritmo los acomoda con precisión letal.
 
-> “El orden no se pide... se programa.”
+
 
 ---
 
-## 🧩 Conceptos Dominados
 
-- ⚔️ Listas simples, dobles y circulares  
-- 🧠 Control absoluto de nodos y punteros  
-- 🔢 Evaluación matemática dinámica  
-- 💾 Lectura y escritura de archivos  
-- ☕ Java POO con disciplina hacker  
 
 ---
 
