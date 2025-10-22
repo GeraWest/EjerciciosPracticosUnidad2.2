@@ -69,11 +69,10 @@ Representar un polinomio con una lista enlazada y evaluar su poder en distintos 
 | Implementación | [ejer3.java](ejer3.java) |
 
 ⚙️ **Modo de Operación:**
-1. Ejecuta `Polinomio`.
-2. Introduce coeficientes y exponentes.
-3. Termina con coeficiente `0` y observa los resultados desplegarse con lógica pura.
-
-> “Las matemáticas son la espada del programador.”
+1-Solicita al usuario los términos del polinomio (coeficiente y exponente).
+2-Crea una lista enlazada simple con los términos en orden de entrada.
+3-Evalúa el polinomio para valores de x desde 0.0 hasta 5.0 (cada 0.5).
+4-Muestra una tabla con los resultados de P(x).
 
 ---
 
@@ -87,11 +86,11 @@ Transformar el polinomio en una *lista circular*, cerrando el ciclo como un cód
 | Implementación | [ejer4.java](ejer4.java) |
 
 ⚙️ **Modo de Operación:**
-1. Ejecuta `PolinomioCircular`.
-2. Captura coeficiente y exponente.
-3. Finaliza con `0` para cerrar el ciclo.
-
-> “Todo vuelve al origen. Así debe ser el código perfecto.”
+1-Parte del modelo del polinomio anterior.
+2-Convierte la lista simple en una lista circular (el último nodo apunta al primero).
+3-Usa como referencia el último nodo para acceder al primero.
+4-Solicita coeficientes y exponentes del polinomio.
+5-Recorre la lista desde el primer nodo hasta volver al inicio.
 
 ---
 
@@ -102,24 +101,21 @@ Construir una lista doblemente enlazada a partir de los caracteres de una cadena
 
 | Módulo | Archivo |
 |--------|----------|
-| Nodo Doble | [ejer5.java](ejer5.java) |
-| Implementación | [ListaDoblementeEnlazada.java](ListaDoblementeEnlazada.java) |
+| Implementación | [ejer5.java](ejer5.java) |
 
 ⚙️ **Modo de Operación:**
-1. Ingresa una cadena.
-2. Observa cómo los caracteres se enlazan entre sí.
-3. El algoritmo los acomoda con precisión letal.
+1-Solicita una cadena de texto al usuario.
+2-Crea una lista doblemente enlazada, con un nodo por cada carácter.
+3-Cada nodo tiene enlace al anterior y al siguiente.
+4-Ordena alfabéticamente los caracteres en la lista.
+5-Muestra los caracteres ordenados en pantalla.
 
 
 
----
+## 🕶 Autor o
 
-
-
----
-
-## 🕶 Autor Legendario
-
-**Rey Gerardo Ávalos Mellado**  
-💻 _Desarrollador con alma binaria_  
-📍 “El código oscuro también tiene estilo.”  
+**Rey Gerardo Avalos Mellado**  
+**1224100509**
+**GTID0141**
+💻 
+ 
