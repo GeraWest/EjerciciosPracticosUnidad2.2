@@ -39,7 +39,7 @@ Forjar una lista enlazada que genere números aleatorios, los muestre y elimine 
 | Módulo | Archivo |
 |--------|----------|
 | Nodo | [Nodo.java](Nodo.java) |
-| Implementación | [ListaEnlazada.java](ListaEnlazada.java) |
+| Implementación | [ejer1.java](ejer1.java) |
 
 ⚙️ **Modo de Operación:**
 1. Ejecuta `ListaEnlazada`.
