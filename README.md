@@ -35,6 +35,8 @@ simple de números enteros positivos.
 | Implementación | [ejer1.java](ejer1.java) |
 
 ⚙️ **Modo de Operación:**
+
+
 1-Genera números enteros positivos al azar.
 
 
@@ -62,10 +64,20 @@ lista enlazada, permitiendo su manipulación dinámica.
 | Implementación | [ejer2.java](ejer2.java) |
 
 ⚙️ **Modo de Operación:**
+
+
 1-Lee palabras desde un archivo de texto.
+
+
 2-Crea una lista enlazada simple con las palabras en orden de aparición.
+
+
 3-Permite agregar nuevas palabras a la lista.
+
+
 4-Permite eliminar palabras específicas.
+
+
 5-Al final, escribe nuevamente todas las palabras en el archivo.
 
 ---
@@ -81,9 +93,17 @@ simple y calcular sus valores para distintos puntos de evaluación.
 | Implementación | [ejer3.java](ejer3.java) |
 
 ⚙️ **Modo de Operación:**
+
+
 1-Solicita al usuario los términos del polinomio (coeficiente y exponente).
+
+
 2-Crea una lista enlazada simple con los términos en orden de entrada.
+
+
 3-Evalúa el polinomio para valores de x desde 0.0 hasta 5.0 (cada 0.5).
+
+
 4-Muestra una tabla con los resultados de P(x).
 
 ---
@@ -99,10 +119,20 @@ convierta en una lista circular, optimizando el acceso y recorrido continuo.
 | Implementación | [ejer4.java](ejer4.java) |
 
 ⚙️ **Modo de Operación:**
+
+
 1-Parte del modelo del polinomio anterior.
+
+
 2-Convierte la lista simple en una lista circular (el último nodo apunta al primero).
+
+
 3-Usa como referencia el último nodo para acceder al primero.
+
+
 4-Solicita coeficientes y exponentes del polinomio.
+
+
 5-Recorre la lista desde el primer nodo hasta volver al inicio.
 
 ---
@@ -119,10 +149,20 @@ alfabéticamente para mostrarla en pantalla.
 | Implementación | [ejer5.java](ejer5.java) |
 
 ⚙️ **Modo de Operación:**
+
+
 1-Solicita una cadena de texto al usuario.
+
+
 2-Crea una lista doblemente enlazada, con un nodo por cada carácter.
+
+
 3-Cada nodo tiene enlace al anterior y al siguiente.
+
+
 4-Ordena alfabéticamente los caracteres en la lista.
+
+
 5-Muestra los caracteres ordenados en pantalla.
 
 
@@ -130,7 +170,11 @@ alfabéticamente para mostrarla en pantalla.
 ## 🕶 Autor o
 
 **Rey Gerardo Avalos Mellado**  
+
+
 **1224100509**
+
+
 **GTID0141**
 💻 
  
