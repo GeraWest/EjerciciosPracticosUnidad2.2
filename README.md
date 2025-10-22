@@ -23,7 +23,8 @@
 
 ---
 
-## 🩸 Actividad 01 – Lista Enlazada Simple
+## 🩸 Actividad 01 – Manipulación de Lista Enlazada
+
 
 🎯 **Objetivo:**  
 Desarrollar un programa que implemente operaciones básicas sobre una lista enlazada
@@ -53,7 +54,8 @@ simple de números enteros positivos.
 
 ---
 
-## 🕶 Actividad 02 – Lista de Palabras desde Archivo
+## 🕶 Actividad 02 – Lista Enlazada de Palabras desde Archivo
+
 
 🎯 **Objetivo:**  
 Desarrollar un programa que lea palabras desde un archivo de texto y las almacene en una
@@ -82,7 +84,8 @@ lista enlazada, permitiendo su manipulación dinámica.
 
 ---
 
-## 🔥 Actividad 03 – Polinomios en Guerra
+## 🔥 Actividad 03 – Representación y Evaluación de Polinomios con Listas Enlazadas
+
 
 🎯 **Objetivo:**  
 Desarrollar un programa que permita representar polinomios mediante una lista enlazada
@@ -108,7 +111,7 @@ simple y calcular sus valores para distintos puntos de evaluación.
 
 ---
 
-## 🌀 Actividad 04 – Polinomio Circular
+## 🌀 Actividad 04 – Polinomio con Lista Enlazada Circular
 
 🎯 **Objetivo:**  
 Modificar la representación de un polinomio mediante lista enlazada simple para que se
@@ -137,7 +140,8 @@ convierta en una lista circular, optimizando el acceso y recorrido continuo.
 
 ---
 
-## 🕸 Actividad 05 – Lista Doblemente Enlazada
+## 🕸 Actividad 05 – Lista Doblemente Enlazada de Caracteres
+
 
 🎯 **Objetivo:**  
 Desarrollar un programa que construya una lista doblemente enlazada a partir de los
@@ -167,7 +171,7 @@ alfabéticamente para mostrarla en pantalla.
 
 
 
-## 🕶 Autor o
+## 🕶 Autor 
 
 **Rey Gerardo Avalos Mellado**  
 
