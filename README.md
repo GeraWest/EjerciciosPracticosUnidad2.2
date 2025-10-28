@@ -170,7 +170,7 @@ alfabéticamente para mostrarla en pantalla.
 5-Muestra los caracteres ordenados en pantalla.
 
 
-## 🎯 Colas
+## 🎯 Colas.
 
 | Elemento | Archivo |
 |-----------|----------|
