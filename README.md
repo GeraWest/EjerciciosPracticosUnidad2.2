@@ -174,7 +174,7 @@ alfabéticamente para mostrarla en pantalla.
 
 | Elemento | Archivo |
 |-----------|----------|
-| 📄 Documento | [Colas_AvalosMelladoReyGerardo.pdf](Colas_Avalos Mellado Rey Gerardo.pdf) |
+| 📄 Documento | [Colas_Avalos Mellado Rey Gerardo.pdf](Colas_AvalosMelladoReyGerardo.pdf) |
 | 💻 Código | [CodigoColas](CodigoColas) |
 | 🎬 Video | [Video](Video) |
 
