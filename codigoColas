@@ -1,0 +1,80 @@
+package ejerciciosguiadosuni2;
+
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+
+/**
+ *
+ * @author Rey Gerardo Avalos Mellado
+ * 1224100509
+ * GTID0141
+ * Crear un objeto cola
+ */
+public class EjerciciosGuiadosUni2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        Queue<String> cola = new LinkedList<>();
+        int opcion;
+
+        do {
+            System.out.println("\n=== MENU DE COLA ===");
+            System.out.println("1. Agregar tarea");
+            System.out.println("2. Mostrar tamano de la cola");
+            System.out.println("3. Consultar frente");
+            System.out.println("4. Quitar tarea y mostrar la ejecutada");
+            System.out.println("5. Mostrar estado final de la cola");
+            System.out.println("0. Salir");
+            System.out.print("Elige una opcion: ");
+            opcion = sc.nextInt();
+            sc.nextLine(); // limpiar buffer
+
+            switch (opcion) {
+                case 1:
+                    System.out.print("Escribe la tarea que deseas agregar bro: ");
+                    String tarea = sc.nextLine();
+                    cola.add(tarea);
+                    System.out.println(" Tarea agregada correctamente: " + tarea);
+                    break;
+
+                case 2:
+                    System.out.println("Tamano actual de la cola: " + cola.size());
+                    break;
+
+                case 3:
+                    if (cola.isEmpty()) {
+                        System.out.println("️ La cola esta vacia.");
+                    } else {
+                        System.out.println("Frente de la cola: " + cola.peek());
+                    }
+                    break;
+
+                case 4:
+                    if (cola.isEmpty()) {
+                        System.out.println("️ No hay tareas por ejecutar.");
+                    } else {
+                        System.out.println("Tarea ejecutada: " + cola.poll());
+                    }
+                    break;
+
+                case 5:
+                    System.out.println("Estado actual de la cola: " + cola);
+                    break;
+
+                case 0:
+                    System.out.println(" sale brou");
+                    break;
+
+                default:
+                    System.out.println("Opcion no valida bro, intenta de nuevo.");
+            }
+        } while (opcion != 0);
+
+        sc.close();
+    }
+
+}
