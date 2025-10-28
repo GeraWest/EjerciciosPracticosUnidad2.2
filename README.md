@@ -170,6 +170,13 @@ alfabéticamente para mostrarla en pantalla.
 5-Muestra los caracteres ordenados en pantalla.
 
 
+## 🎯 Colas
+
+| Elemento | Archivo |
+|-----------|----------|
+| Implementación | [Colas_AvalosMelladoReyGerardo.pdf](Colas_AvalosMelladoReyGerardo.pdf) |
+
+
 
 ## 🕶 Autor 
 
