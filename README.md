@@ -287,7 +287,7 @@ Convertir un número decimal a binario usando una pila.
 | Implementación | [ejer6_DecimalABinario.java](ejer6_DecimalABinario.java) |
 
 🖼 **Imagen:**  
-![ejer6](img/ejer6.png)
+![ejer6.png](img/ejer6.png)
 
 ---
 
