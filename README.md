@@ -388,10 +388,10 @@ Escribir un método que reciba como argumentos dos colas del mismo tipo y devuel
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [Ejercicio1_ComparacionDeColas.java](Ejercicio1_ComparacionDeColas.java) |
+| Implementación | [Ejer1_ComparacionDeColas.java](Ejer1_ComparacionDeColas.java) |
 
 🖼 **Imagen:**  
-![ejer1](ejer1.png)
+![ejer1](ejer1.1.png)
 
 ---
 
@@ -411,10 +411,10 @@ Simular el funcionamiento de un supermercado con:
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [Ejercicio2_SimulacionSupermercado.java](Ejercicio2_SimulacionSupermercado.java) |
+| Implementación | [Ejer2_SimulacionSupermercado.java](Ejer2_SimulacionSupermercado.java) |
 
 🖼 **Imagen:**  
-![ejer2](ejer2.png)
+![ejer2](ejer2.1.png)
 
 ---
 
@@ -439,10 +439,10 @@ Simular el flujo de atención durante **7 horas**, considerando:
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [Ejercicio3_AtencionClientes.java](Ejercicio3_AtencionClientes.java) |
+| Implementación | [Ejer3_AtencionClientes.java](Ejer3_AtencionClientes.java) |
 
 🖼 **Imagen:**  
-![ejer3](ejer3.png)
+![ejer3](ejer3.1.png)
 
 ---
 
