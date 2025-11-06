@@ -188,7 +188,7 @@ Practicar las operaciones básicas `push` y `pop` en una pila.
 | Implementación | [ejer1_simulacionSimpleDePilas.java](ejer1_simulacionSimpleDePilas.java) |
 
 🖼 **Imagen:**  
-![ejer1](img/ejer1.png)
+![ejer1](ejer1.png)
 
 ---
 
@@ -208,7 +208,7 @@ Implementar una pila de nombres que permita apilarlos y mostrarlos en orden inve
 | Implementación | [ejer2_PilaDeNombres.java](ejer2_PilaDeNombres.java) |
 
 🖼 **Imagen:**  
-![ejer2](img/ejer2.png)
+![ejer2](ejer2.png)
 
 ---
 
@@ -228,7 +228,7 @@ Comprobar si una pila se encuentra vacía antes y después de insertar elementos
 | Implementación | [ejer3_VerificarSiUnaPilaEstaVacia.java](ejer3_VerificarSiUnaPilaEstaVacia.java) |
 
 🖼 **Imagen:**  
-![ejer3](img/ejer3.png)
+![ejer3](ejer3.png)
 
 ---
 
@@ -247,7 +247,7 @@ Usar una pila para invertir una palabra ingresada por el usuario.
 | Implementación | [ejer4_invertirUnaPalabra.java](ejer4_invertirUnaPalabra.java) |
 
 🖼 **Imagen:**  
-![ejer4](img/ejer4.png)
+![ejer4](ejer4.png)
 
 ---
 
@@ -268,7 +268,7 @@ Comprobar si una expresión matemática tiene paréntesis balanceados.
 | Implementación | [ejer5_BalanceoDeParentesis.java](ejer5_BalanceoDeParentesis.java) |
 
 🖼 **Imagen:**  
-![ejer5](img/ejer5.png)
+![ejer5](ejer5.png)
 
 ---
 
@@ -287,7 +287,7 @@ Convertir un número decimal a binario usando una pila.
 | Implementación | [ejer6_DecimalABinario.java](ejer6_DecimalABinario.java) |
 
 🖼 **Imagen:**  
-![ejer6.png](img/ejer6.png)
+![ejer6](ejer6.png)
 
 ---
 
@@ -307,7 +307,7 @@ Simular una función “deshacer” mediante una pila.
 | Implementación | [ejer7_SimularFuncionDeshacer.java](ejer7_SimularFuncionDeshacer.java) |
 
 🖼 **Imagen:**  
-![ejer7](img/ejer7.png)
+![ejer7](ejer7.png)
 
 ---
 
@@ -328,7 +328,7 @@ Evaluar una expresión en notación postfija usando pilas.
 | Implementación | [ejer8_evaluarExpresionPostfija.java](ejer8_evaluarExpresionPostfija.java) |
 
 🖼 **Imagen:**  
-![ejer8](img/ejer8.png)
+![ejer8](ejer8.png)
 
 ---
 
@@ -347,7 +347,7 @@ Usar una pila para invertir los elementos de una lista de enteros.
 | Implementación | [ejer9_RevertirLista.java](ejer9_RevertirLista.java) |
 
 🖼 **Imagen:**  
-![ejer9](img/ejer9.png)
+![ejer9](ejer9.png)
 
 ---
 
@@ -367,7 +367,7 @@ Determinar si una palabra es palíndroma utilizando una pila.
 | Implementación | [ejer10_VerificarPalindromo.java](ejer10_VerificarPalindromo.java) |
 
 🖼 **Imagen:**  
-![ejer10](img/ejer10.png)
+![ejer10](ejer10.png)
 
 
 
