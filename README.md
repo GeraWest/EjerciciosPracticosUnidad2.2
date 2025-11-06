@@ -170,6 +170,207 @@ alfabéticamente para mostrarla en pantalla.
 5-Muestra los caracteres ordenados en pantalla.
 
 
+## 🧱 Pilas
+
+### 🧩 Ejercicio 1 – Simulación simple de pilas
+
+🎯 **Objetivo:**  
+Practicar las operaciones básicas `push` y `pop` en una pila.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Crear una pila vacía  
+2. Insertar 5, 10, 15, 20  
+3. Eliminar dos elementos  
+4. Mostrar contenido actual de la pila  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer1_simulacionSimpleDePilas.java](ejer1_simulacionSimpleDePilas.java) |
+
+🖼 **Imagen:**  
+![ejer1](img/ejer1.png)
+
+---
+
+### 🧩 Ejercicio 2 – Pila de nombres
+
+🎯 **Objetivo:**  
+Implementar una pila de nombres que permita apilarlos y mostrarlos en orden inverso.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Crear una pila vacía  
+2. Leer nombres del usuario hasta que escriba “FIN”  
+3. Insertar cada nombre en la pila  
+4. Mostrar los nombres en orden inverso  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer2_PilaDeNombres.java](ejer2_PilaDeNombres.java) |
+
+🖼 **Imagen:**  
+![ejer2](img/ejer2.png)
+
+---
+
+### 🧩 Ejercicio 3 – Verificar si una pila está vacía
+
+🎯 **Objetivo:**  
+Comprobar si una pila se encuentra vacía antes y después de insertar elementos.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Crear una pila vacía  
+2. Verificar si está vacía  
+3. Insertar un elemento  
+4. Verificar nuevamente  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer3_VerificarSiUnaPilaEstaVacia.java](ejer3_VerificarSiUnaPilaEstaVacia.java) |
+
+🖼 **Imagen:**  
+![ejer3](img/ejer3.png)
+
+---
+
+### 🧩 Ejercicio 4 – Invertir una palabra
+
+🎯 **Objetivo:**  
+Usar una pila para invertir una palabra ingresada por el usuario.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Leer palabra del usuario  
+2. Apilar cada carácter  
+3. Desapilar y mostrar los caracteres  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer4_invertirUnaPalabra.java](ejer4_invertirUnaPalabra.java) |
+
+🖼 **Imagen:**  
+![ejer4](img/ejer4.png)
+
+---
+
+### 🧩 Ejercicio 5 – Balanceo de paréntesis
+
+🎯 **Objetivo:**  
+Comprobar si una expresión matemática tiene paréntesis balanceados.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Leer expresión  
+2. Recorrer cada carácter  
+3. Apilar si es ‘(’  
+4. Desapilar si es ‘)’  
+5. Validar que la pila quede vacía  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer5_BalanceoDeParentesis.java](ejer5_BalanceoDeParentesis.java) |
+
+🖼 **Imagen:**  
+![ejer5](img/ejer5.png)
+
+---
+
+### 🧩 Ejercicio 6 – Decimal a binario
+
+🎯 **Objetivo:**  
+Convertir un número decimal a binario usando una pila.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Leer número decimal  
+2. Dividir entre 2 y apilar los residuos  
+3. Desapilar y mostrar el resultado binario  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer6_DecimalABinario.java](ejer6_DecimalABinario.java) |
+
+🖼 **Imagen:**  
+![ejer6](img/ejer6.png)
+
+---
+
+### 🧩 Ejercicio 7 – Simular función deshacer (UNDO)
+
+🎯 **Objetivo:**  
+Simular una función “deshacer” mediante una pila.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Crear pila vacía  
+2. Registrar acciones del usuario  
+3. Si se ingresa “UNDO”, eliminar la última acción  
+4. Mostrar estado actual  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer7_SimularFuncionDeshacer.java](ejer7_SimularFuncionDeshacer.java) |
+
+🖼 **Imagen:**  
+![ejer7](img/ejer7.png)
+
+---
+
+### 🧩 Ejercicio 8 – Evaluar expresión postfija
+
+🎯 **Objetivo:**  
+Evaluar una expresión en notación postfija usando pilas.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Leer expresión postfija  
+2. Recorrer tokens  
+3. Apilar operandos  
+4. Al encontrar un operador, desapilar dos valores y operar  
+5. Mostrar el resultado  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer8_evaluarExpresionPostfija.java](ejer8_evaluarExpresionPostfija.java) |
+
+🖼 **Imagen:**  
+![ejer8](img/ejer8.png)
+
+---
+
+### 🧩 Ejercicio 9 – Revertir lista
+
+🎯 **Objetivo:**  
+Usar una pila para invertir los elementos de una lista de enteros.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Crear lista con elementos  
+2. Apilar todos los elementos  
+3. Desapilar y mostrar en orden inverso  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer9_RevertirLista.java](ejer9_RevertirLista.java) |
+
+🖼 **Imagen:**  
+![ejer9](img/ejer9.png)
+
+---
+
+### 🧩 Ejercicio 10 – Verificar palíndromo
+
+🎯 **Objetivo:**  
+Determinar si una palabra es palíndroma utilizando una pila.
+
+⚙️ **Pseudocódigo / Algoritmo:**
+1. Leer palabra del usuario  
+2. Apilar cada carácter  
+3. Desapilar para invertirla  
+4. Comparar con la palabra original  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [ejer10_VerificarPalindromo.java](ejer10_VerificarPalindromo.java) |
+
+🖼 **Imagen:**  
+![ejer10](img/ejer10.png)
+
+
+
 
 
 
