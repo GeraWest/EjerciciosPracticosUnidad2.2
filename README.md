@@ -228,7 +228,7 @@ Comprobar si una pila se encuentra vacía antes y después de insertar elementos
 | Implementación | [ejer3_VerificarSiUnaPilaEstaVacia.java](ejer3_VerificarSiUnaPilaEstaVacia.java) |
 
 🖼 **Imagen:**  
-![ejer3](ejer31.png)
+![ejer31](ejer31.png)
 
 ---
 
