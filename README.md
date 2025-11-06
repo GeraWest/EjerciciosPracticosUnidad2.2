@@ -414,7 +414,7 @@ Simular el funcionamiento de un supermercado con:
 | Implementación | [ejer2_SimulacionSupermercado.java](ejer2_SimulacionSupermercado.java) |
 
 🖼 **Imagen:**  
-![ejer2](ejer2.1.png)
+![ejer2.1](ejer2.1.png)
 
 ---
 
