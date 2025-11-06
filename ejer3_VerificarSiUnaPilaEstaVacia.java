@@ -10,11 +10,13 @@ import java.util.Stack;
  */
 public class ejer3_VerificarSiUnaPilaEstaVacia {
     public static void main(String[] args) {
-Stack<Integer> pila = new Stack<>();
-System.out.println("¿Está vacía la pila? " + pila.isEmpty());
-pila.push(1);
-System.out.println("¿Está vacía la pila? " + pila.isEmpty());
- }
+        Stack<Integer> pila = new Stack<>();
+        System.out.println("¿La pila está vacía? " + pila.isEmpty());
+        pila.push(10); // Inserta un elemento
+        System.out.println("Se ha insertado un elemento (10).");
+        System.out.println("¿La pila está vacía ahora? " + pila.isEmpty());
+    }
     
 }
+
 
