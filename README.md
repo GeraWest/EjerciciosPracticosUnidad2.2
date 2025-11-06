@@ -370,6 +370,83 @@ Determinar si una palabra es palíndroma utilizando una pila.
 ![ejer10](ejer10.png)
 
 
+---
+
+
+
+## 🧱 Colas
+
+### 🧩 Ejercicio 1 – Comparación de Colas
+
+🎯 **Objetivo:**  
+- Aplicar estructuras de datos tipo cola.  
+- Implementar recorrido y comparación de elementos.  
+- Preservar el estado original de las colas (opcional con colas auxiliares).  
+
+📘 **Descripción:**  
+Escribir un método que reciba como argumentos dos colas del mismo tipo y devuelva `true` si ambas colas son idénticas (mismo tamaño y mismos elementos en el mismo orden), o `false` en caso contrario.  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [Ejercicio1_ComparacionDeColas.java](Ejercicio1_ComparacionDeColas.java) |
+
+🖼 **Imagen:**  
+![ejer1](ejer1.png)
+
+---
+
+### 🧩 Ejercicio 2 – Simulación de Supermercado con Carritos y Cajas
+
+🎯 **Objetivo:**  
+- Modelar colas para carritos y cajas.  
+- Aplicar lógica de asignación y liberación de recursos.  
+- Simular comportamiento de clientes en tiempo discreto.  
+
+📘 **Descripción:**  
+Simular el funcionamiento de un supermercado con:  
+- 25 carritos de compra.  
+- 3 cajas de pago.  
+- Clientes que esperan si no hay carritos disponibles.  
+- Los clientes se colocan en la cola de la caja con menos personas y liberan el carrito al pagar.  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [Ejercicio2_SimulacionSupermercado.java](Ejercicio2_SimulacionSupermercado.java) |
+
+🖼 **Imagen:**  
+![ejer2](ejer2.png)
+
+---
+
+### 🧩 Ejercicio 3 – Simulación de Atención al Cliente en Supermercado
+
+🎯 **Objetivo:**  
+- Aplicar estructuras de cola y simulación temporal.  
+- Implementar lógica condicional y aleatoria.  
+- Generar estadísticas de rendimiento.  
+
+📘 **Descripción:**  
+Simular el flujo de atención durante **7 horas**, considerando:  
+- Una fila única de clientes.  
+- 3 cajas activas (abrir una cuarta si hay más de 20 clientes).  
+- Tiempos de atención distribuidos uniformemente por caja.  
+- Llegadas de clientes cada minuto (en promedio).  
+- Estadísticas calculadas:  
+  - Total de clientes atendidos.  
+  - Tamaño medio y máximo de la fila.  
+  - Tiempo máximo de espera.  
+  - Minuto de apertura de la cuarta caja.  
+
+| Módulo | Archivo |
+|--------|----------|
+| Implementación | [Ejercicio3_AtencionClientes.java](Ejercicio3_AtencionClientes.java) |
+
+🖼 **Imagen:**  
+![ejer3](ejer3.png)
+
+---
+
+
 
 
 
